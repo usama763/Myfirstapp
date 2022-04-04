@@ -1,0 +1,24 @@
+total 24
+drwx------. 16 usama usama 4096 Mar 29 05:00 .
+-rw-------.  1 usama usama  620 Mar 25 07:21 .ICEauthority
+-rw-r--r--.  1 usama usama  376 Jul 27  2021 .bashrc
+drwx------. 14 usama usama  262 Mar 25 07:22 .config
+drwxr-xr-x. 11 usama usama  250 Jan 18 14:50 .cache
+-rw-r--r--.  1 usama usama  141 Jul 27  2021 .bash_profile
+drwxr-xr-x.  2 usama usama   47 Mar 29 04:37 Desktop
+drwxr-xr-x.  4 usama usama   39 Jan 18 12:25 .mozilla
+drwxr-xr-x.  3 root  root    19 Jan 18 12:34 ..
+drwx------.  3 usama usama   19 Jan 18 14:49 .local
+drwxrw----.  3 usama usama   19 Jan 18 14:49 .pki
+-rw-r--r--.  1 usama usama   18 Jul 27  2021 .bash_logout
+-rw-------.  1 usama usama   16 Jan 18 14:49 .esd_auth
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Documents
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Downloads
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Music
+drwxrwxr-x.  2 usama usama    6 Mar 28 06:48 new_directory
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Pictures
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Public
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Templates
+drwxr-xr-x.  2 usama usama    6 Jan 18 14:49 Videos
+-rw-rw-r--.  1 usama usama    0 Mar 28 03:27 dockerfile
+-rw-rw-r--.  1 usama usama    0 Mar 29 05:00 file1.text
