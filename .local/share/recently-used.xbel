@@ -134,4 +134,30 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/usama/gitignore" added="2022-04-04T14:25:39Z" modified="2022-04-04T14:25:39Z" visited="2022-04-04T14:25:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-04T14:25:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/usama/test.txt" added="2022-04-04T14:26:15Z" modified="2022-04-04T14:26:15Z" visited="2022-04-04T14:26:15.755889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-04T14:26:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

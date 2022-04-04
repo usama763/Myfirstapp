@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="76" last-seen="1649071826"/>
-    <application id="org.gnome.Terminal.desktop" score="6235" last-seen="1649071800"/>
-    <application id="org.gnome.gedit.desktop" score="23" last-seen="1649071829"/>
+    <application id="org.gnome.Nautilus.desktop" score="388" last-seen="1649084954"/>
+    <application id="org.gnome.Terminal.desktop" score="7794" last-seen="1649084953"/>
+    <application id="org.gnome.gedit.desktop" score="23" last-seen="1649084347"/>
     <application id="eog.desktop" score="1" last-seen="1649071088"/>
   </context>
 </application-state>
