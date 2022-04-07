@@ -147,7 +147,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/usama/test.txt" added="2022-04-04T14:26:15Z" modified="2022-04-04T14:26:15Z" visited="2022-04-04T14:26:15.755889Z">
+  <bookmark href="file:///home/usama/test.txt" added="2022-04-04T14:26:15Z" modified="2022-04-04T14:26:15Z" visited="2022-04-04T14:26:15Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
@@ -156,6 +156,16 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-04-04T14:26:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/usama/Screenshot%20from%202022-04-07%2002-05-38.png" added="2022-04-07T09:05:39Z" modified="2022-04-07T09:05:39Z" visited="2022-04-07T09:05:39.312081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-04-07T09:05:39Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
